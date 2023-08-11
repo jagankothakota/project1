@@ -4,14 +4,16 @@ This is a web-based application developed for a FASHION named JADIYA FASHION.
 
 This web-based restaurant application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-**Project Link** - https://jagankothakota.github.io/project1/index.html
+**GitHub Hosted Project Link** - https://jagankothakota.github.io/project1/index.html
 
+**Azure Hosted Project Link** https://brave-glacier-0ac948210.3.azurestaticapps.net/
 
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/e_8uQvWeD0A
 
 ****Azure Technology Used for Project:**
 => Stativ Web apps
 => Azure bot
+=> Language Service
 
 ## Features and Functionalities 😃
 
@@ -35,6 +37,10 @@ This web-based restaurant application has been developed for the accomplishment 
 
 ### About Us Page -
 ![about](https://github.com/jagankothakota/project1/assets/59262973/60e68f1c-0199-4b40-807a-f030ccb616a6)
+
+### Azure Services Screenshot -
+
+![Services](https://github.com/jagankothakota/project1/assets/59262973/8a14a1fe-c244-4cf3-a99f-c2cc8a5bb9f6)
 
 
 ## Tech Stack 💻
